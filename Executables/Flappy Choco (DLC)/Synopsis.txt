@@ -1,0 +1,10 @@
+Flappy Choco TM un jeu développé par Zakaria "LeMASHUP" DUTERTRE (aka le plus cringe des B1 selon Adao)
+
+Programmation et graphismes : Zakaria DUTERTRE
+
+Histoire :
+Dans un futur proche, un élève des B1 c'est encore fait chocoblast par des camarades très très TRES gentil. 
+Une chocolatine, appeuré de finir dans le même sort que ses ayeux, s'enfuit de sa boulangerie et devra parcourir une ville pleine de danger (Lidl, Honoré et Mama Works)
+pour survivre...
+
+(c) Octobre 2022
